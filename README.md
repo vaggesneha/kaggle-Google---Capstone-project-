@@ -1,13 +1,15 @@
-# kaggle-Google---Capstone-Competition-
+# My AI Agents Journey 🚀
 
-**Capstone Competition -** https://www.kaggle.com/competitions/agents-intensive-capstone-project/overview
-**WINNERS -** https://www.kaggle.com/competitions/agents-intensive-capstone-project/hackathon-winners
-**Writeup -** https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-stock-prediction-system-multi-agent-a2a-archit
-**Full Project details -** https://github.com/nishapp/agents-5days-kaggle-competition
-**Project Explaination -** https://youtu.be/gFHcXT7lF0Y
-**LinkedIn -** https://www.linkedin.com/in/vagge-sneha-708b3120a/recent-activity/images/
+## 🔗 Quick Links
 
-# My AI Agents Journey 
+**📊 Capstone Competition**: [Kaggle Competition](https://www.kaggle.com/competitions/agents-intensive-capstone-project/overview)  
+**🏆 Winners Announcement**: [Hackathon Winners](https://www.kaggle.com/competitions/agents-intensive-capstone-project/hackathon-winners)  
+**📝 Project Writeup**: [Kaggle Writeup](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-stock-prediction-system-multi-agent-a2a-archit)  
+**💻 Full Project Code**: [GitHub Repository](https://github.com/nishapp/agents-5days-kaggle-competition)  
+**🎥 Project Explanation Video**: [YouTube](https://youtu.be/gFHcXT7lF0Y)  
+**👔 LinkedIn**: [Vagge Sneha](https://www.linkedin.com/in/vagge-sneha-708b3120a/recent-activity/images/)
+
+---
 
 ## The 5-Day Intensive Experience
 
@@ -27,7 +29,9 @@ The course culminated in a capstone project where I built an **AI Stock Predicti
 
 ### The Result 🏆
 
-Out of **11,000+ submissions** from participants worldwide, my project secured **2nd place**! 
+Out of **11,000+ submissions** from participants worldwide, my **"AI Stock Prediction System: Multi-Agent A2A Architecture"** secured **2nd place** in the Agents Intensive Capstone Project! 
+
+This win wasn't just about the ranking - it was recognition of building a production-ready system that leverages cutting-edge multi-agent collaboration. My project stood out for its sophisticated agent orchestration, real-world applicability, and successful deployment on Vertex AI.
 
 This achievement validated not just the technical implementation, but also my understanding of:
 - Multi-agent architecture design
