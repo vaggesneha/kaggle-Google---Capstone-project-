@@ -1,6 +1,6 @@
-# kaggle-Google---Capstone-project-
-My AI Agents Journey! The 5-Day Intensive Experience
-# My AI Agents Journey 🚀
+# kaggle-Google---Capstone-Competition-
+
+# My AI Agents Journey 
 
 ## The 5-Day Intensive Experience
 
@@ -16,6 +16,9 @@ This wasn't just another online course. Over 5 intensive days, I learned to buil
 
 ### The Capstone Challenge
 
+**Capstone Competition -** https://www.kaggle.com/competitions/agents-intensive-capstone-project/overview
+**WINNERS -** https://www.kaggle.com/competitions/agents-intensive-capstone-project/hackathon-winners
+
 The course culminated in a capstone project where I built an **AI Stock Prediction System** using multiple specialized agents working together through Google's A2A Protocol. Each agent had a specific role - from collecting market data to analyzing patterns to generating predictions.
 
 ### The Result 🏆
@@ -27,6 +30,11 @@ This achievement validated not just the technical implementation, but also my un
 - Real-world AI system deployment
 - Production-ready agent development
 - Collaborative AI workflows
+
+**Writeup -** https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-stock-prediction-system-multi-agent-a2a-archit
+**Full Project details -** https://github.com/nishapp/agents-5days-kaggle-competition
+**Project Explaination -** https://youtu.be/gFHcXT7lF0Y
+
 
 ### What I Learned
 
